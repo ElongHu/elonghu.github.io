@@ -2,13 +2,8 @@
 layout: page
 title: About
 permalink: /about/
----
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hi！ My name is Elong Hu, and I am currently pursuing a master's degree at the University of the Chinese Academy of Sciences. My primary research areas include causal inference, natural language processing, and big data technology. A realistic yet hopeless idealist.
 
 ### Contact me
 
